@@ -68,6 +68,11 @@ https://aliexpress.ru/popular/lcd-lb043wq2-td01.html
 #include <LCD6BitI.h>
 #include <GfxWrapper.h>
 
+#define BLACK     0b000000
+#define BLUE      0b110000
+#define RED       0b000011
+#define GREEN     0b001100
+
 #define R  21
 #define R1 19
 #define G  18
