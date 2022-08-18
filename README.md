@@ -56,7 +56,7 @@ vpolaritynegative  - полярность вертикального синхр�
 
 Например:
 
-#include <LCD6BitI.h>\n
+`#include <LCD6BitI.h>
 #include <GfxWrapper.h>
 
 #define R  21
@@ -84,7 +84,7 @@ void loop(){
   gfx.setCursor(240,45);
   gfx.print("Samples");
   delay(10000);
-}
+}`
 
 Макрос RGB565(встроенный) - корректор цвета из формата R2G2B2 или R1G1B1 в формат, предусмотренный в AdafruitGFX
 
