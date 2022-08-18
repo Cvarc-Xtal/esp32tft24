@@ -1,3 +1,5 @@
+// Copyright https://github.com/bitluni
+
 //Дисплей tft KD43-G18-45TB аналог LMS430HF02
 //синхронизация через HSync/VSync
 //1,2    - GND

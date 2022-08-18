@@ -1,3 +1,5 @@
+// Copyright https://github.com/bitluni
+
 /////////////////////////////////////
 //Дисплей TFTLCD24BIT https://datasheetspdf.com/pdf-file/746163/LG/LB043WQ2-TD01/1
 //синхронизация через DE
