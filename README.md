@@ -90,3 +90,7 @@ void loop(){
 
 
 Остальные примеры можно взять здесь: https://github.com/bitluni/ESP32Lib/tree/master/examples
+
+Добавлю коротенькое видео с текущего моего проекта, где используется данный драйвер
+в режиме шесть бит цветов:
+https://youtu.be/01amlRFFrTA
