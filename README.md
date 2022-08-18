@@ -95,3 +95,4 @@ void loop(){
 в режиме шесть бит цветов:
 https://youtu.be/01amlRFFrTA
 
+
