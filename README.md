@@ -56,7 +56,7 @@ vpolaritynegative  - полярность вертикального синхр�
 
 Например:
 
-#include <LCD6BitI.h>
+#include <LCD6BitI.h>\n
 #include <GfxWrapper.h>
 
 #define R  21
