@@ -13,7 +13,7 @@ uint8_t colors[8]{
     0b110011,
     0b001111,
     0b111111
-}
+};
 
 #define BLACK    0b000000
 #define BLUE     0b110000

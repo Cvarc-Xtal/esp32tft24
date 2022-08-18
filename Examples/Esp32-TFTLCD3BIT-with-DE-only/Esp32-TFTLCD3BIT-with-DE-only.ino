@@ -4,7 +4,7 @@
 
 //////////////////////////////////
 
-uint8_t colors[8]{
+uint8_t colors[8] = {
     0b000000,
     0b110000,
     0b000011,
@@ -13,7 +13,7 @@ uint8_t colors[8]{
     0b110011,
     0b001111,
     0b111111
-}
+};
 
 #define BLACK    0b000000
 #define BLUE     0b110000
@@ -25,12 +25,12 @@ uint8_t colors[8]{
 #define WHITE    0b111111
 
 
-#define REDPIN    21    //   
-#define GREENPIN  18    //   
-#define BLUEPIN   17    //   
-#define HSYNCPIN  -1    // 
-#define DEPIN     15    // 
-#define CLOCKPIN   4    //
+#define REDPIN    21
+#define GREENPIN  18
+#define BLUEPIN   17
+#define HSYNCPIN  -1
+#define DEPIN     15
+#define CLOCKPIN   4
 
 LCD3BitI tft; //R1G1B1
 const Mode LCD3BitI::MODE480x272(0, 48,  0, 480,  0, 14, 0, 272, 1, 0, 1, 1); //для LB043WQ2-TD01 sync DE only
